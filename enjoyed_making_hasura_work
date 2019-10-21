@@ -1,0 +1,10 @@
+install npm -g graphql
+use heroku app to sign in into hasura graphql 
+create tables and add rows
+get the end point URL and the local schema 
+open graphql in cmd prmt
+open graphql -g init
+then select the project name parent directory 
+get the output and claim the Hasura Tshirt
+
+ps: Chilla chilla ke scheme mat batao
