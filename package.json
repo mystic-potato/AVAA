@@ -1,0 +1,21 @@
+{
+  "name": "tic-tac-toe",
+  "version": "0.0.1",
+  "description": "a html5 tic tac toe game",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luizbills/html5-tic-tac-toe.git"
+  },
+  "keywords": [
+    "tic",
+    "tac",
+    "toe",
+    "game",
+    "html5"
+  ],
+  "author": "Luiz Bills",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luizbills/html5-tic-tac-toe/issues"
+  }
+}
